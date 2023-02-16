@@ -16,12 +16,6 @@ pipeline {
      }
   }
     
-//     stage('Deploy') {
-//       steps {
-        
-//         echo 'Deploy Stage Successful'
-//       }
-   
   post {
     failure {
       echo 'Pipeline failed'
