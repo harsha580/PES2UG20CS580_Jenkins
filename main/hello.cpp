@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "Change made to hello.cpp file\n";
-  cout << "Made by PES2UG20CS542\n";
+  cout << "Made by PES2UG20CS580\n";
   return 0;
 }
